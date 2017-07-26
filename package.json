@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/J6K/FS_Practice/issues"
   },
-  "homepage": "https://github.com/J6K/FS_Practice#readme"
+  "homepage": "https://github.com/J6K/FS_Practice#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "nodemon": "^1.11.0"
+  }
 }
