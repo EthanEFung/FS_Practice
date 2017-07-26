@@ -17,6 +17,6 @@ app.listen(PORT, err=> {
     console.log('error on the server');
   }
    else {
-     console.log('Successfully conneced to server port: ' + PORT);
+     console.log('Successfully connected to server port: ' + PORT);
    }
 })
